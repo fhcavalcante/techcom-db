@@ -15,4 +15,4 @@ docker build -t techcom-db .
 
 2 - Execute:
 
-docker run 5002:5002 teckcom-db
+docker run 5002:5002 techcom-db
